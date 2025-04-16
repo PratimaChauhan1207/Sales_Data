@@ -59,7 +59,6 @@ pip install pandas matplotlib
 ```bash
 python Automation.py
 ```
-
 ---
 
 ## Automate with Task Scheduler:
