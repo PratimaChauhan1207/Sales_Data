@@ -77,5 +77,5 @@ To run this script daily without opening it manually:
    ```
    "C:\Users\YourName\Automation Project\Automation.py"
    ```
-5. Set the trigger time (e.g., every day at 9:00 AM)  
+5. Set the trigger time (e.g., every day at 10:00 AM)  
 
